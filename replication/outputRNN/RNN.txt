@@ -1,0 +1,60 @@
+Evaluation prediction on test set, first fold
+########### Metrics for clinical status ##################
+mAUC 0.966463950379 bca 0.9029539454951662
+########### Mean Absolute Error (MAE) ##################
+adasMAE 3.8831358763161608 ventsMAE 0.0018294387461598313
+
+Evaluation prediction on test set, second fold
+########### Metrics for clinical status ##################
+mAUC 0.94214830871 bca 0.8845446149125465
+########### Mean Absolute Error (MAE) ##################
+adasMAE 4.25558589216159 ventsMAE 0.0014770928798063525
+
+Evaluation prediction on test set, 3 fold
+########### Metrics for clinical status ##################
+mAUC 0.958789723198 bca 0.8642546999395773
+########### Mean Absolute Error (MAE) ##################
+adasMAE 4.179396134159979 ventsMAE 0.0013555575149149504
+
+Evaluation prediction on test set, 4 fold
+########### Metrics for clinical status ##################
+mAUC 0.92672963105 bca 0.8843580854339761
+########### Mean Absolute Error (MAE) ##################
+adasMAE 4.262725014425612 ventsMAE 0.0016222227641673817
+
+Evaluation prediction on test set, 5 fold
+########### Metrics for clinical status ##################
+mAUC 0.959629529812 bca 0.9001033823100443
+########### Mean Absolute Error (MAE) ##################
+adasMAE 4.690524875671108 ventsMAE 0.0014879661032413825
+
+Evaluation prediction on test set, 6 fold
+########### Metrics for clinical status ##################
+mAUC 0.945988213467 bca 0.8833448291411002
+########### Mean Absolute Error (MAE) ##################
+adasMAE 5.098701173972119 ventsMAE 0.0014474384470052537
+
+Evaluation prediction on test set, 7 fold
+########### Metrics for clinical status ##################
+mAUC 0.928876841701 bca 0.8699916779102729
+########### Mean Absolute Error (MAE) ##################
+adasMAE 4.160219497054668 ventsMAE 0.0014041067395875039
+
+Evaluation prediction on test set, 8 fold
+########### Metrics for clinical status ##################
+mAUC 0.938828519277 bca 0.8678643707853698
+########### Mean Absolute Error (MAE) ##################
+adasMAE 3.7674764916493904 ventsMAE 0.0013220552416693962
+
+Evaluation prediction on test set, 9 fold
+########### Metrics for clinical status ##################
+mAUC 0.948151090709 bca 0.8828871501941272
+########### Mean Absolute Error (MAE) ##################
+adasMAE 4.4811003818277335 ventsMAE 0.001483364946213787
+
+Evaluation prediction on test set, 10 fold
+########### Metrics for clinical status ##################
+mAUC 0.947025437795 bca 0.8963114562890339
+########### Mean Absolute Error (MAE) ##################
+adasMAE 4.081786774447816 ventsMAE 0.0018004403447386935
+
