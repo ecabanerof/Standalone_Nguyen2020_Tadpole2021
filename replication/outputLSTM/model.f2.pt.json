@@ -1,0 +1,1 @@
+{"data": "outputLSTM/test.f2.pkl", "epochs": 100, "h_drop": 0.4, "h_size": 128, "i_drop": 0.1, "lr": 0.001290666, "model": "LSTM", "nb_layers": 2, "out": "outputLSTM/model.f2.pt", "seed": 0, "verbose": true, "w_ent": 1.0, "weight_decay": 1e-05}
