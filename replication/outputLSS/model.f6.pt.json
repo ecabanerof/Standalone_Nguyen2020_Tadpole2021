@@ -1,0 +1,1 @@
+{"data": "outputLSS/test.f6.pkl", "epochs": 100, "h_drop": 0.4, "h_size": 128, "i_drop": 0.1, "lr": 0.001290666, "model": "LSS", "nb_layers": 2, "out": "outputLSS/model.f6.pt", "seed": 0, "verbose": true, "w_ent": 1.0, "weight_decay": 1e-05}
